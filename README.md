@@ -1,4 +1,4 @@
-# SDLC TEAM 19(GENESIS)
+
 # QUIZ Game Launcher
 
 A fun quizing game designed using C Programming consisting of different topics. Only requirement is to achieve a minimum score to pass the quiz.
