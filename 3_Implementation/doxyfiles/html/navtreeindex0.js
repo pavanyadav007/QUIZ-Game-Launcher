@@ -1,0 +1,21 @@
+var NAVTREEINDEX0 =
+{
+"create__question__array_8c.html":[0,0,0,0],
+"create__question__array_8c.html#a5d1387ce2d5a94399b5963bd01285704":[0,0,0,0,0],
+"dir_68267d1309a1af8e8297ef4c3efbcdba.html":[0,0,0],
+"files.html":[0,0],
+"game__intro_8c.html":[0,0,0,1],
+"game__intro_8c.html#ae1e6c3fd76474cc6ca7a560f395a5f1e":[0,0,0,1,0],
+"globals.html":[0,1,0],
+"globals_func.html":[0,1,1],
+"index.html":[],
+"pages.html":[],
+"play_8c.html":[0,0,0,2],
+"play_8c.html#a943d408b24521a778d6e71957d19b9f8":[0,0,0,2,0],
+"please__help_8c.html":[0,0,0,3],
+"please__help_8c.html#a5a3ed8b43c7cb6b0c38665469a3ada46":[0,0,0,3,0],
+"read__file_8c.html":[0,0,0,4],
+"read__file_8c.html#a1d65e5d8aba33889aa9eaa3b19bc61b8":[0,0,0,4,0],
+"time__delay_8c.html":[0,0,0,5],
+"time__delay_8c.html#a9c4a782fecb87e95b820d4fa21357172":[0,0,0,5,0]
+};
